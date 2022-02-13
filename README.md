@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @safaapatel
 - 👀 I’m interested in Python, Machine Learning, Data Science
 - 🌱 I’m currently learning Cloud development
-- 💞️ I’m looking to collaborate on 30 days of google cloud
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me patelsafaa25@gmail.com
 - Linkedin: https://www.linkedin.com/in/safaapatel/
 
